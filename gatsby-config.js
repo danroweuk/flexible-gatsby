@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Flexible Gatsby`,
+    title: `danrowe.org`,
     description: `Johnny5 is Alive!.`,
     author: `Daniel Rowe`,
     siteUrl: `https://danrowe.org/`,
