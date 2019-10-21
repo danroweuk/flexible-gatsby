@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
     title: `danrowe.org`,
-    description: `Johnny5 is Alive!.`,
+    description: `Tech, Travel, Health & Cats.`,
     author: `Daniel Rowe`,
     siteUrl: `https://danrowe.org/`,
     social: {
       twitter: `danroweuk`,
-      github: `wangonya`,
+      github: `danroweuk`,
       facebook: `wangonya`,
-      linkedin: `wangonya`,
+      linkedin: `Daniel-rowe-a7496830`,
       email: `website@danrowe.email`,
     },
   },
